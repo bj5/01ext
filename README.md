@@ -7,7 +7,7 @@ a expansion board with esp-01/esp-01s.
 
 01ext  come with
 - usb-serail chip 
-- 4 pin serial io connect
+- 4 pin jack
 - a switch to  flash esp-01/01s
 
 
