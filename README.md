@@ -1,6 +1,6 @@
 # 01ext
 
-a expansion board with esp-01/esp-01s.
+a expansion board play with esp-01/esp-01s.
 
 ![pcb](https://github.com/bj5/01ext/blob/main/docs/01ext-3d.png)
 
