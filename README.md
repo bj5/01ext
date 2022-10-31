@@ -2,7 +2,7 @@
 
 a expansion board play with esp-01/esp-01s.
 
-![pcb](https://github.com/bj5/01ext/blob/main/docs/01ext-3d.png)
+![pcb](https://github.com/bj5/01ext/blob/main/01ext-3d.png)
 
 
 01ext  come with
